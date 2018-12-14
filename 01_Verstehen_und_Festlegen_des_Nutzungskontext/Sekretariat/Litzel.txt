@@ -1,0 +1,12 @@
+Funktionen:
+- Abschlussarbeiten
+- Leistungsübersicht (alle Noten, von allen Studenten)
+- Prüfungsübersicht  (alle Prüfungen von allen Semestern)
+- + alle die Profs auch haben
+
+Verbesserungswünsche:
+- bei Abschlussarbeit eintragen: mit Tastenkombination speichern können
+- bei Leistungsübersicht: Suche besser machen, dass man sich nicht durchklicken 
+	muss, wenn Matrikelnummer fehlt und Name nicht richtig lesbar ist
+
+
