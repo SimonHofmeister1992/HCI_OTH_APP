@@ -1,7 +1,6 @@
 
 ## This Repository is for educational purposes
-## The only purpose is the redesigning of a website the technical university uses, 
-## which is, to say, a websie for managing exams
+## The only purpose is the redesigning of a website the technical university of Regensburg uses, which is, a website for managing exams
 
 ### Therefore we won't code but redesign the whole UI and its features
 
